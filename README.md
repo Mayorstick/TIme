@@ -1,2 +1,2 @@
-# TIme
+# Time
 This is mini project about ⏰ 
